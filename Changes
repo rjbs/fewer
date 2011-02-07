@@ -1,0 +1,9 @@
+Revision history for {{$dist->name}}
+
+{{$NEXT}}
+
+          use more 'more'
+
+0.100220  2010-01-22
+
+          first release
