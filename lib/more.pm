@@ -2,7 +2,7 @@ use 5.010;
 use strict;
 package more;
 use less 0.03 ();
-use base 'less';
+use parent 'less';
 # ABSTRACT: use more of a resource
 1;
 

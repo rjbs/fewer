@@ -2,7 +2,7 @@ use 5.010;
 use strict;
 package fewer;
 use less 0.03 ();
-use base 'less';
+use parent 'less';
 # ABSTRACT: use fewer units of a countable resource
 sub stash_name { 'less' }
 1;
