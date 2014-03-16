@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.203     2014-03-16 12:47:31+01:00 Europe/Paris
           update minimum perl to 5.12.0, for less 0.03
 
 0.202     2013-09-24 20:57:20 America/New_York
