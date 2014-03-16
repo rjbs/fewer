@@ -1,9 +1,11 @@
-use 5.010;
-use strict;
+use 5.12.0;
+use warnings;
 package more;
+# ABSTRACT: use more of a resource
+
 use less 0.03 ();
 use parent 'less';
-# ABSTRACT: use more of a resource
+
 1;
 
 __END__

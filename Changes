@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+          update minimum perl to 5.12.0, for less 0.03
 
 0.202     2013-09-24 20:57:20 America/New_York
           replace a busted test file

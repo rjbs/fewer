@@ -1,10 +1,13 @@
-use 5.010;
-use strict;
+use 5.12.0;
+use warnings;
 package fewer;
+# ABSTRACT: use fewer units of a countable resource
+
 use less 0.03 ();
 use parent 'less';
-# ABSTRACT: use fewer units of a countable resource
+
 sub stash_name { 'less' }
+
 1;
 
 __END__
